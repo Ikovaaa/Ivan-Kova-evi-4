@@ -12,10 +12,9 @@ body {
     background-size: auto;
     background-repeat: repeat;
 }
-h1{
-	font-family: "IvanKovacevic"
-		
-}
+h1 {
+        font-family: 'IvanKovacevic', serif;
+    }
 
 a{
 	color: white;
